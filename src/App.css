@@ -1,0 +1,83 @@
+
+body {
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/883/103/desktop-wallpaper-mama-2018-how-the-event-is-changing-the-global-music-landscape-jungkook-on-fake-love-mama-concert.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+min-width: 500px;
+}
+
+
+h2{
+  
+  height: 40px;
+  width: 350px;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 3px purple;
+  border-bottom: 2px solid gold;
+}
+ .label{
+color:white ;
+font-size: 23px;
+font-weight: 100px;
+text-transform: bold;
+}
+input{
+  background-color: aliceblue;
+  height:30px;
+  width: 180px;
+  border-radius: 5px;
+  justify-content: end;
+  margin-left: 20px;
+}
+#add{
+  background-color: purple;
+  color: white;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.Crud {
+  display: flex;
+  justify-content: space-between; 
+  align-items: flex-start; 
+
+}
+
+.form-container {
+  border: 1px solid gold;
+  background-image: linear-gradient(purple,rgb(60, 2, 52));
+border-radius: 10px;
+
+  height: 400px;
+  width: 470px;
+  padding: 20px; 
+ 
+}
+
+.cards-container {
+   
+  padding: 20px;
+  
+  
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+.card{
+  width: 360px;
+  background-image: linear-gradient(rgba(200, 9, 200, 0.5), rgba(0, 0, 0, 0.5));
+  border-radius: 10px;
+
+  color: white;
+}
+.card-title{
+  border-bottom: 2px solid gold;
+  font-weight: 600px;
+}
+.card-text{
+  color: black;
+  font-weight: 500px;
+}
